@@ -8,9 +8,9 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**Choose Your Own API Beautified** is an android app that **An app that displays a stylized scrollable list of Pokemon from the PokeAPI**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🌗😍✨**
 
 ## Application Features
 
